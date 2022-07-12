@@ -1,4 +1,4 @@
-# 6/22 MCD Exam Readiness ワークショップ
+# MCD Exam Readiness ワークショップ
 ###### tags: `MuleSoftTraining`
 
 - [MuleSoft Exam Readiness Kit - 認定資格試験への準備キット -](https://salesforce.quip.com/JBhRAIbXU9VO)
